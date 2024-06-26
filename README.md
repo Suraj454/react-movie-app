@@ -1,4 +1,4 @@
-Deploy Link : react-movie-app-suraj454.netlify.app
+Deploy Link : https://react-movie-app-suraj454.netlify.app/
 
 # Getting Started with Create React App
 
